@@ -1,7 +1,4 @@
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fvted&show_icons=true&theme=tokyonight", alt=Fate>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fvte&hide=prs,contribs&title_color=ffffff&icon_color=ffffff&text_color=efefef&bg_color=0000&show_icons=true">
 </p>
-
-⚡ Intermediate 16 year old developer who likes coding in Python 3 and GoLang. <br>
-💻 Currently learning reverse engineering! <br>
-📧 You can contact me on Telegram @ https://t.me/illusions
+Always overthinking. ⚜️
